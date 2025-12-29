@@ -1,0 +1,9 @@
+# switch - alternatives management tool for NurOS
+# Copyright (C) 2026 AnmiTaliDev <anmitali198@gmail.com>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
+# No custom options needed for now - using standard meson options:
+# - prefix (default: /usr/local)
+# - bindir (default: bin)
+# - datadir (default: share)
+# - sysconfdir (default: etc)
